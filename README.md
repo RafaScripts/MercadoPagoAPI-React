@@ -1,7 +1,12 @@
 # MercadoPagoAPI-React
 Api mercado pago, para transações, utilizando o checkout pro e React.
 
-<H1>1. Instalação</H1>
+<H2>1. Instalação</H2>
+requisitos:
+
+Node.js
+
+Mercado Pago API credencial
 
 ```
 
@@ -11,3 +16,4 @@ or
 yarn install
 
 ```
+
